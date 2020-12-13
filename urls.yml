@@ -1,0 +1,29 @@
+- ghUrl: 'https://github.com/Open-EdTech/AWS-CSA/blob/main/01-set-theory.md'
+  rawUrl: 'https://raw.githubusercontent.com/Open-EdTech/AWS-CSA/main/01-set-theory.md'
+  route: Open-EdTech/AWS-CSA/01-set-theory.md
+- ghUrl: 'https://github.com/Open-EdTech/AWS-CSA/blob/main/01z/lol.md'
+  rawUrl: 'https://raw.githubusercontent.com/Open-EdTech/AWS-CSA/main/01z/lol.md'
+  route: Open-EdTech/AWS-CSA/01z/lol.md
+- ghUrl: 'https://github.com/Open-EdTech/AWS-CSA/blob/main/02-counting.md'
+  rawUrl: 'https://raw.githubusercontent.com/Open-EdTech/AWS-CSA/main/02-counting.md'
+  route: Open-EdTech/AWS-CSA/02-counting.md
+- ghUrl: 'https://github.com/Open-EdTech/AWS-CSA/blob/main/03-probability.md'
+  rawUrl: 'https://raw.githubusercontent.com/Open-EdTech/AWS-CSA/main/03-probability.md'
+  route: Open-EdTech/AWS-CSA/03-probability.md
+- ghUrl: 'https://github.com/Open-EdTech/AWS-CSA/blob/main/04-randomvariables.md'
+  rawUrl: >-
+    https://raw.githubusercontent.com/Open-EdTech/AWS-CSA/main/04-randomvariables.md
+  route: Open-EdTech/AWS-CSA/04-randomvariables.md
+- ghUrl: 'https://github.com/Open-EdTech/AWS-CSA/blob/main/05-discretefunctions.md'
+  rawUrl: >-
+    https://raw.githubusercontent.com/Open-EdTech/AWS-CSA/main/05-discretefunctions.md
+  route: Open-EdTech/AWS-CSA/05-discretefunctions.md
+- ghUrl: 'https://github.com/Open-EdTech/AWS-CSA/blob/main/06-discretedistributions.md'
+  rawUrl: >-
+    https://raw.githubusercontent.com/Open-EdTech/AWS-CSA/main/06-discretedistributions.md
+  route: Open-EdTech/AWS-CSA/06-discretedistributions.md
+- ghUrl: >-
+    https://github.com/Open-EdTech/AWS-CSA/blob/main/07-continuousdistributions.md
+  rawUrl: >-
+    https://raw.githubusercontent.com/Open-EdTech/AWS-CSA/main/07-continuousdistributions.md
+  route: Open-EdTech/AWS-CSA/07-continuousdistributions.md
